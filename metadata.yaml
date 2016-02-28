@@ -1,0 +1,31 @@
+_repo: The-Man-Who-Would-Be-King_8147
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: One of Kipling's best stories written during his time as a journalist
+  in India, The Man Who Would Be King explores the themes of isolation and abandonment
+  and the effects of the Indian caste system on society. -Amazon.com.
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'British -- Afghanistan -- Fiction'
+- !lcsh 'Afghanistan -- Fiction'
+title: The Man Who Would Be King
+url: http://www.gutenberg.org/ebooks/8147
