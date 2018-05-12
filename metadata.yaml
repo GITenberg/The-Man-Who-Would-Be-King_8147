@@ -1,4 +1,8 @@
 _repo: The-Man-Who-Would-Be-King_8147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -13,6 +17,8 @@ creator:
 description: One of Kipling's best stories written during his time as a journalist
   in India, The Man Who Would Be King explores the themes of isolation and abandonment
   and the effects of the Indian caste system on society. -Amazon.com.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8147#The-Man-Who-Would-Be-King
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
